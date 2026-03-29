@@ -1,0 +1,13 @@
+# 專案基礎設定 (各專案請自行修改此處)
+title: "Dave's Guitar: Thank You Music Festival 2026"
+description: "Dedicated to Dave Täht & Every Unsung Hero in the World — and You."
+url: "https://tw641.github.io"
+baseurl: "/daves-guitar-2026"
+github_url: "https://github.com/TW641/daves-guitar-2026"
+
+# 強制開啟 GFM 引擎與自動生成 ID (確保 TOC 單頁跳轉完美生效)
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
