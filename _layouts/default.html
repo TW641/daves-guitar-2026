@@ -471,7 +471,7 @@
                     heading.prepend(anchor);
                 }
             });
-            const keywords = ["Dave Täht", "Täht", "Dave", "Michael", "dtaht", "@mtaht", "Dave's Guitar", "星塵", "星星", "星辰", "Starstuff", "Star"];
+            const keywords = ["Dave Täht", "Täht", "Dave", "Michael", "dtaht", "@mtaht", "Dave’s Guitar", "Dave's Guitar", "星塵", "星星", "星辰", "Starstuff", "Star"];
             const escapedKw = keywords.map(k => k.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).sort((a, b) => b.length - a.length);
             const boundaryPrefix = "(?<![a-zA-Z0-9])";
             const boundarySuffix = "(?![a-zA-Z0-9])";
