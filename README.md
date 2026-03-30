@@ -233,17 +233,7 @@
 <br>
 
 <p style="margin-top: 0;">
-  <img src="images/youtube.svg" width="24" height="24" alt="" align="absmiddle">
-  &nbsp;
-  <a href="https://www.youtube.com/@fffirdhaus" target="_blank"><b>YouTube (@fffirdhaus)</b></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/instagram.svg" width="24" height="24" alt="" align="absmiddle">
-  &nbsp;
-  <a href="https://instagram.com/fffirdhaus" target="_blank"><b>Instagram (@fffirdhaus)</b></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="images/facebook.svg" width="24" height="24" alt="" align="absmiddle">
-  &nbsp;
-  <a href="https://facebook.com/fffirdhaus.official" target="_blank"><b>Facebook (@fffirdhaus)</b></a>
+  <span style="white-space: nowrap;"><img src="images/youtube.svg" width="24" height="24" alt="" align="absmiddle">&nbsp;<a href="https://www.youtube.com/@fffirdhaus" target="_blank"><b>YouTube (@fffirdhaus)</b></a></span>&nbsp;&nbsp;&nbsp;&nbsp; <span style="white-space: nowrap;"><img src="images/instagram.svg" width="24" height="24" alt="" align="absmiddle">&nbsp;<a href="https://instagram.com/fffirdhaus" target="_blank"><b>Instagram (@fffirdhaus)</b></a></span>&nbsp;&nbsp;&nbsp;&nbsp; <span style="white-space: nowrap;"><img src="images/facebook.svg" width="24" height="24" alt="" align="absmiddle">&nbsp;<a href="https://facebook.com/fffirdhaus.official" target="_blank"><b>Facebook (@fffirdhaus)</b></a></span>
 </p>
 
 <br>
