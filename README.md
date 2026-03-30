@@ -232,18 +232,30 @@
   </a>
 </p>
 
-**📜 播放清單完整收錄 (共 4 首)：**
+<p><b>📜 播放清單完整收錄 (共 4 首)：</b></p>
 
-1. **[One First Landing (Thank you SpaceX for a wonderful year!)](https://www.youtube.com/watch?v=wjur0RG-v-I&list=PLRiUC3KADrrVJtY6Zk7C5_o1ScZa3MSGY&index=1)**
-   *演唱：Dave Taht*
-2. **[Rhysling & Me - Falling Free and Flying High" - With Lola Johnson on lead guitar](https://www.youtube.com/watch?v=xTPJO-cAAjQ&list=PLRiUC3KADrrVJtY6Zk7C5_o1ScZa3MSGY&index=2)**
-   *演唱：Dave Taht*
-3. **[Fire in the sky - music clip](https://www.youtube.com/watch?v=-Ryd_p20XEU&list=PLRiUC3KADrrVJtY6Zk7C5_o1ScZa3MSGY&index=3)**
-   *頻道：Thu Vu Trong*
-4. **[Fire in the Sky — Jordin Kare (1991)](https://www.youtube.com/watch?v=TyqhMxMBJk4&list=PLRiUC3KADrrVJtY6Zk7C5_o1ScZa3MSGY&index=4)**
-   *頻道：Vintage Filk Preservation*
+<ol style="line-height: 1.8;">
+  <li style="margin-bottom: 12px;">
+    <b><a href="https://www.youtube.com/watch?v=wjur0RG-v-I&list=PLRiUC3KADrrVJtY6Zk7C5_o1ScZa3MSGY&index=1" target="_blank">One First Landing (Thank you SpaceX for a wonderful year!)</a></b>
+    <br><i>演唱：Dave Taht</i>
+  </li>
+  <li style="margin-bottom: 12px;">
+    <b><a href="https://www.youtube.com/watch?v=xTPJO-cAAjQ&list=PLRiUC3KADrrVJtY6Zk7C5_o1ScZa3MSGY&index=2" target="_blank">Rhysling & Me - Falling Free and Flying High" - With Lola Johnson on lead guitar</a></b>
+    <br><i>演唱：Dave Taht</i>
+  </li>
+  <li style="margin-bottom: 12px;">
+    <b><a href="https://www.youtube.com/watch?v=-Ryd_p20XEU&list=PLRiUC3KADrrVJtY6Zk7C5_o1ScZa3MSGY&index=3" target="_blank">Fire in the sky - music clip</a></b>
+    <br><i>頻道：Thu Vu Trong</i>
+  </li>
+  <li style="margin-bottom: 12px;">
+    <b><a href="https://www.youtube.com/watch?v=TyqhMxMBJk4&list=PLRiUC3KADrrVJtY6Zk7C5_o1ScZa3MSGY&index=4" target="_blank">Fire in the Sky — Jordin Kare (1991)</a></b>
+    <br><i>頻道：Vintage Filk Preservation</i>
+  </li>
+</ol>
 
-> 🔗 **[點這裡：進入 YouTube 完整連續播放](https://www.youtube.com/playlist?list=PLRiUC3KADrrVJtY6Zk7C5_o1ScZa3MSGY)**
+<blockquote>
+  🔗 <b><a href="https://www.youtube.com/playlist?list=PLRiUC3KADrrVJtY6Zk7C5_o1ScZa3MSGY" target="_blank">點這裡：進入 YouTube 完整連續播放</a></b>
+</blockquote>
 
 </details>
 <br>
