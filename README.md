@@ -1,7 +1,7 @@
 # Dave's Guitar | Thank You Music Festival 2026
-「謝謝」星空音樂祭 | Dedicated to Dave Täht &amp; Every Unsung Hero in the World — and You.
+「謝謝」星空音樂祭 | Dedicated to Dave Täht & Every Unsung Hero in the World — and You.
 
-> 🎸 [Dave's Stage](#dave-taht) | 🎤 [Future Stage](#future-stage)
+> 🎸 [Dave's Stage](#dave-taht) | 🇲🇾 [菲道尔 Firdhaus](#Firdhaus) | 🎤 [Future Stage](#future-stage)
 
 <hr>
 
@@ -29,20 +29,22 @@
         </a>
         <br><b>she caught the katy</b>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://www.youtube.com/watch?v=MB5JSdvDWh0">
           <img src="https://i.ytimg.com/vi/MB5JSdvDWh0/hqdefault.jpg" alt="new age noodles at harpos cafe" loading="lazy" decoding="async" width="480" height="360">
         </a>
         <br><b>new age noodles at harpos cafe</b>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://www.youtube.com/watch?v=FBCyPf5gEy4">
           <img src="https://i.ytimg.com/vi/FBCyPf5gEy4/hqdefault.jpg" alt="old age medley" loading="lazy" decoding="async" width="480" height="360">
         </a>
         <br><b>old age medley</b>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://www.youtube.com/watch?v=vIXs6w8VX28">
           <img src="https://i.ytimg.com/vi/vIXs6w8VX28/hqdefault.jpg" alt="Mauro Caminiti and Carlos Canales #4" loading="lazy" decoding="async" width="480" height="360">
@@ -69,20 +71,22 @@
         </a>
         <br><b>Mauro Caminiti and Carlos Canales Live at Hush Maderas #2</b>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://www.youtube.com/watch?v=VK4la_iKKjs">
           <img src="https://i.ytimg.com/vi/VK4la_iKKjs/hqdefault.jpg" alt="one first landing... at starbase tx" loading="lazy" decoding="async" width="480" height="360">
         </a>
         <br><b>one first landing... at starbase tx</b>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://www.youtube.com/watch?v=VXLHmZxv0Fo">
           <img src="https://i.ytimg.com/vi/VXLHmZxv0Fo/hqdefault.jpg" alt="The Bufferbloat Project - Crossing the Chasm 2018" loading="lazy" decoding="async" width="480" height="360">
         </a>
         <br><b>The Bufferbloat Project - Crossing the Chasm 2018</b>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://www.youtube.com/watch?v=tUun-jFFoU4">
           <img src="https://i.ytimg.com/vi/tUun-jFFoU4/hqdefault.jpg" alt="Working Class Hero" loading="lazy" decoding="async" width="480" height="360">
@@ -109,20 +113,22 @@
         </a>
         <br><b>Redemption Song - From #IETF104</b>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://www.youtube.com/watch?v=xTPJO-cAAjQ">
           <img src="https://i.ytimg.com/vi/xTPJO-cAAjQ/hqdefault.jpg" alt="Rhysling &amp; Me - Falling Free and Flying High" loading="lazy" decoding="async" width="480" height="360">
         </a>
         <br><b>Rhysling &amp; Me - Falling Free and Flying High</b>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://www.youtube.com/watch?v=ffeJ0NBNW3Q">
           <img src="https://i.ytimg.com/vi/ffeJ0NBNW3Q/hqdefault.jpg" alt="FCC vs Open Source WiFi - 2015" loading="lazy" decoding="async" width="480" height="360">
         </a>
         <br><b>FCC vs Open Source WiFi - 2015</b>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://www.youtube.com/watch?v=5ddR31XguxU">
           <img src="https://i.ytimg.com/vi/5ddR31XguxU/hqdefault.jpg" alt="Living in the Ooze with Electra Rapping" loading="lazy" decoding="async" width="480" height="360">
@@ -149,20 +155,22 @@
         </a>
         <br><b>redemption song</b>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://www.youtube.com/watch?v=cNt4DALRuIk">
           <img src="https://i.ytimg.com/vi/cNt4DALRuIk/hqdefault.jpg" alt="rhysling and me" loading="lazy" decoding="async" width="480" height="360">
         </a>
         <br><b>rhysling and me</b>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://www.youtube.com/watch?v=S7X9WzSIzS0">
           <img src="https://i.ytimg.com/vi/S7X9WzSIzS0/hqdefault.jpg" alt="CyberNation" loading="lazy" decoding="async" width="480" height="360">
         </a>
         <br><b>CyberNation</b>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://www.youtube.com/watch?v=3LOHqv5iV7A">
           <img src="https://i.ytimg.com/vi/3LOHqv5iV7A/hqdefault.jpg" alt="IPv4 Unicast Extensions" loading="lazy" decoding="async" width="480" height="360">
@@ -183,7 +191,6 @@
         </a>
         <br><b>One first landing (spacex's first stage)</b>
       </td>
-      <td></td>
       <td></td>
     </tr>
   </tbody>
@@ -209,6 +216,59 @@
    *頻道：Vintage Filk Preservation*
 
 > 🔗 **[點這裡：進入 YouTube 完整連續播放](https://www.youtube.com/playlist?list=PLRiUC3KADrrVJtY6Zk7C5_o1ScZa3MSGY)**
+
+<hr>
+
+## <a name="Firdhaus"></a> 🇲🇾 菲道尔 Firdhaus (#Firdhaus)
+
+當星空遇見溫暖的靈魂。我們為才華洋溢的菲道尔 (Firdhaus) 準備了這個舞台，與 Dave’s Guitar 產生最美的共鳴。
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" style="vertical-align: middle;">
+        <br><br><br>
+        <h2>🪑 專屬保留席</h2>
+        <p style="color: gray;"><i>等待菲道尔 (Firdhaus) 回覆中...</i></p>
+        <br><br><br>
+      </td>
+      <td align="center">
+        <a href="https://www.youtube.com/watch?v=VaMW1gegoiw">
+          <img src="https://i.ytimg.com/vi/VaMW1gegoiw/hqdefault.jpg" alt="也許是我寫給你的最後一首歌" loading="lazy" decoding="async" width="480" height="360">
+        </a>
+        <br><b>也許是我寫給你的最後一首歌</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.youtube.com/watch?v=hTQJFJ8Dxbw">
+          <img src="https://i.ytimg.com/vi/hTQJFJ8Dxbw/hqdefault.jpg" alt="你會來看我嗎？Will You Be There" loading="lazy" decoding="async" width="480" height="360">
+        </a>
+        <br><b>你會來看我嗎？Will You Be There</b>
+      </td>
+      <td align="center">
+        <a href="https://www.youtube.com/watch?v=SuwW4-I_JVI">
+          <img src="https://i.ytimg.com/vi/SuwW4-I_JVI/hqdefault.jpg" alt="能遇见，就很不错了" loading="lazy" decoding="async" width="480" height="360">
+        </a>
+        <br><b>能遇见，就很不错了</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.youtube.com/watch?v=XGi4IwEDCMo">
+          <img src="https://i.ytimg.com/vi/XGi4IwEDCMo/hqdefault.jpg" alt="我们都是第一次做人 We're Only Human" loading="lazy" decoding="async" width="480" height="360">
+        </a>
+        <br><b>我们都是第一次做人 We're Only Human</b>
+      </td>
+      <td align="center">
+        <a href="https://www.youtube.com/watch?v=Ca79uRFu5Co">
+          <img src="https://i.ytimg.com/vi/Ca79uRFu5Co/hqdefault.jpg" alt="人生，起起落落落落落? Up &amp; Down" loading="lazy" decoding="async" width="480" height="360">
+        </a>
+        <br><b>人生，起起落落落落落? Up &amp; Down</b>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <hr>
 
