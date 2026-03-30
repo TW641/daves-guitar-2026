@@ -1,7 +1,7 @@
 # Dave's Guitar | Thank You Music Festival 2026
 「謝謝」星空音樂祭 | Dedicated to Dave Täht & Every Unsung Hero in the World — and You.
 
-> 🎸 [Dave's Stage](#dave-taht) | 🇲🇾 [菲道尔 Firdhaus](#Firdhaus) | 🎤 [Future Stage](#future-stage)
+> 🎸 [Dave's Stage](#dave-taht) | 🇲🇾 [菲道尔 Firdhaus](#fffirdhaus) | 🎤 [Future Stage](#future-stage)
 
 <hr>
 
@@ -200,6 +200,10 @@
 
 ### 🚀 Featured EP: Space Songs (太空之歌)
 
+<details>
+<summary><b>🎵 點這裡展開：Space Songs 迷你專輯 (4 首太空主題播放清單)</b></summary>
+<br>
+
 這張由 Dave Taht 親自建立的迷你影音專輯，收錄了 4 首獻給星空、火箭與 SpaceX 的浪漫之作。除了 Dave 自己的創作，還包含了他收藏的經典太空主題歌曲。
 
 [![Space Songs Playlist](https://i.ytimg.com/vi/wjur0RG-v-I/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLRiUC3KADrrVJtY6Zk7C5_o1ScZa3MSGY)
@@ -217,11 +221,34 @@
 
 > 🔗 **[點這裡：進入 YouTube 完整連續播放](https://www.youtube.com/playlist?list=PLRiUC3KADrrVJtY6Zk7C5_o1ScZa3MSGY)**
 
+</details>
+<br>
+
 <hr>
 
-## <a name="Firdhaus"></a> 🇲🇾 菲道尔 Firdhaus (#Firdhaus)
+## <a name="fffirdhaus"></a> 🇲🇾 菲道尔 Firdhaus (@fffirdhaus)
 
 當星空遇見溫暖的靈魂。我們為才華洋溢的菲道尔 (Firdhaus) 準備了這個舞台，與 Dave’s Guitar 產生最美的共鳴。
+
+<br>
+
+<p style="margin-top: 0;">
+  <img src="images/youtube.svg" width="24" height="24" alt="" align="absmiddle">
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@fffirdhaus" target="_blank"><b>YouTube (@fffirdhaus)</b></a>
+  <br><br>
+  
+  <img src="images/instagram.svg" width="24" height="24" alt="" align="absmiddle">
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/fffirdhaus" target="_blank"><b>Instagram (@fffirdhaus)</b></a>
+  <br><br>
+
+  <img src="images/facebook.svg" width="24" height="24" alt="" align="absmiddle">
+  &nbsp;&nbsp;
+  <a href="https://facebook.com/fffirdhaus.official" target="_blank"><b>Facebook (@fffirdhaus)</b></a>
+</p>
+
+<br>
 
 <table>
   <tbody>
