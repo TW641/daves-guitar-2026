@@ -290,6 +290,14 @@
 <br>
 
 <p align="center">
+  <a href="https://www.youtube.com/watch?v=NYvCKT1Kqoo" target="_blank">
+    <img src="https://i.ytimg.com/vi/NYvCKT1Kqoo/maxresdefault.jpg" alt="相信自己相信自己相信自己 You Got This" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
+  </a>
+  <br><br><b style="font-size: 1.1em;">相信自己相信自己相信自己 You Got This</b>
+</p>
+<br>
+
+<p align="center">
   <a href="https://www.youtube.com/watch?v=hTQJFJ8Dxbw" target="_blank">
     <img src="https://i.ytimg.com/vi/hTQJFJ8Dxbw/maxresdefault.jpg" alt="你會來看我嗎？Will You Be There" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
   </a>
