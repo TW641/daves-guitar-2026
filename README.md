@@ -1,6 +1,7 @@
 # Dave's Guitar | Thank You Music Festival 2026
 「謝謝」星空音樂祭 | Dedicated to Dave Täht & Every Unsung Hero in the World — and You.
 
+<blockquote>
 <p align="center" style="margin-top: 0; line-height: 2.5; font-size: 1.1em;">
   🎸&nbsp;<a href="#dave-taht"><b>Dave's&nbsp;Stage</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
   🇲🇾&nbsp;<a href="#fffirdhaus"><b>菲&#8288;道&#8288;尔&nbsp;Firdhaus</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -11,6 +12,7 @@
   🇹🇼&nbsp;<a href="#mayday"><b>五&#8288;月&#8288;天&nbsp;Mayday</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
   🎤&nbsp;<a href="#future-stage"><b>Future&nbsp;Stage</b></a>
 </p>
+</blockquote>
 
 <hr>
 
