@@ -1,13 +1,16 @@
 # Dave's Guitar | Thank You Music Festival 2026
 「謝謝」星空音樂祭 | Dedicated to Dave Täht & Every Unsung Hero in the World — and You.
 
-> 🎸 [Dave's Stage](#dave-taht) | 🇲🇾 [菲道尔 Firdhaus](#fffirdhaus)
-> 
-> 🇲🇾 [蔡恩雨 Priscilla Abby](#priscilla-abby) | 🇭🇰 [鄧紫棋 G.E.M.](#gem)
-> 
-> 🇸🇬 [林俊傑 JJ Lin](#jjlin) | 🇹🇼 [蔡宥綺 Patti YC](#patti-yc)
-> 
-> 🇹🇼 [五月天 Mayday](#mayday) | 🎤 [Future Stage](#future-stage)
+<p align="center" style="margin-top: 0; line-height: 2.5; font-size: 1.1em;">
+  🎸&nbsp;<a href="#dave-taht"><b>Dave's&nbsp;Stage</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  🇲🇾&nbsp;<a href="#fffirdhaus"><b>菲&#8288;道&#8288;尔&nbsp;Firdhaus</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  🇲🇾&nbsp;<a href="#priscilla-abby"><b>蔡&#8288;恩&#8288;雨&nbsp;Priscilla&nbsp;Abby</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  🇭🇰&nbsp;<a href="#gem"><b>鄧&#8288;紫&#8288;棋&nbsp;G.E.M.</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  🇸🇬&nbsp;<a href="#jjlin"><b>林&#8288;俊&#8288;傑&nbsp;JJ&nbsp;Lin</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  🇹🇼&nbsp;<a href="#patti-yc"><b>蔡&#8288;宥&#8288;綺&nbsp;Patti&nbsp;YC</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  🇹🇼&nbsp;<a href="#mayday"><b>五&#8288;月&#8288;天&nbsp;Mayday</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  🎤&nbsp;<a href="#future-stage"><b>Future&nbsp;Stage</b></a>
+</p>
 
 <hr>
 
