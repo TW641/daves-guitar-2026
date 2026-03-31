@@ -1,7 +1,7 @@
 # Dave's Guitar | Thank You Music Festival 2026
 「謝謝」星空音樂祭 | Dedicated to Dave Täht & Every Unsung Hero in the World — and You.
 
-> 🎸 [Dave's Stage](#dave-taht) | 🇲🇾 [菲道尔 Firdhaus](#fffirdhaus) | 🎤 [Future Stage](#future-stage)
+> 🎸 [Dave's Stage](#dave-taht) | 🇲🇾 [菲道尔 Firdhaus](#fffirdhaus) | 🇲🇾 [蔡恩雨 Priscilla Abby](#priscilla-abby) | 🇭🇰 [鄧紫棋 G.E.M.](#gem) | 🇸🇬 [林俊傑 JJ Lin](#jjlin) | 🎤 [Future Stage](#future-stage)
 
 <hr>
 
@@ -274,7 +274,7 @@
 
 <br><br><br>
 <h2 align="center">🪑 專屬保留席</h2>
-<p align="center" style="color: gray;"><i>等待菲道尔 (Firdhaus) 回覆中...</i></p>
+<p align="center" style="color: gray;"><i>📡 衛星碟形天線正對準星海，期待宇宙漂流瓶能將這份邀請傳達到 菲道尔 (Firdhaus) 的手中...</i></p>
 <br><br><br>
 
 <p align="center">
@@ -322,6 +322,125 @@
     <img src="https://i.ytimg.com/vi/Ca79uRFu5Co/maxresdefault.jpg" alt="人生，起起落落落落落? Up &amp; Down" width="1280" height="720" loading="lazy" decoding="async" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
   </a>
   <br><br><b style="font-size: 1.1em;">人生，起起落落落落落? Up &amp; Down</b>
+</p>
+<br>
+
+## <a name="priscilla-abby"></a> 🇲🇾 蔡恩雨 Priscilla Abby (@PriscillaAbby)
+
+用充滿爆發力的 EDM 點燃星空。這裡是為電音天后蔡恩雨 (Priscilla Abby) 準備的專屬舞台，用極具渲染力的聲線，為這場音樂祭注入無限動能。
+
+<br>
+
+<p style="margin-top: 0; line-height: 2.5;">
+  <span style="white-space: nowrap;"><img src="images/youtube.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://www.youtube.com/@PriscillaAbby" target="_blank"><b>YouTube (@PriscillaAbby)</b></a></span>&nbsp;&nbsp;&nbsp;&nbsp; <span style="white-space: nowrap;"><img src="images/instagram.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://instagram.com/priscillaabbychai" target="_blank"><b>Instagram (@priscillaabbychai)</b></a></span>&nbsp;&nbsp;&nbsp;&nbsp; <span style="white-space: nowrap;"><img src="images/facebook.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://facebook.com/PriscillaAbbyChai" target="_blank"><b>Facebook (@PriscillaAbbyChai)</b></a></span>
+</p>
+
+<br><br><br>
+<h2 align="center">🪑 專屬保留席</h2>
+<p align="center" style="color: gray;"><i>📡 衛星碟形天線正對準星海，期待宇宙漂流瓶能將這份邀請傳達到 蔡恩雨 (Priscilla Abby) 的手中...</i></p>
+<br><br><br>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ZaX_7Re8dRc" target="_blank">
+    <img src="https://i.ytimg.com/vi/ZaX_7Re8dRc/maxresdefault.jpg" alt="蔡恩雨 Priscilla Abby《 小雨宙 》官方 Official MV" width="1280" height="720" loading="lazy" decoding="async" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
+  </a>
+  <br><br><b style="font-size: 1.1em;">蔡恩雨 Priscilla Abby《 小雨宙 》官方 Official MV</b>
+</p>
+<br>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ACEq2EE-RbI" target="_blank">
+    <img src="https://i.ytimg.com/vi/ACEq2EE-RbI/maxresdefault.jpg" alt="蔡恩雨 Priscilla Abby《 Fight For My Life 》官方 Official MV" width="1280" height="720" loading="lazy" decoding="async" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
+  </a>
+  <br><br><b style="font-size: 1.1em;">蔡恩雨 Priscilla Abby《 Fight For My Life 》官方 Official MV</b>
+</p>
+<br>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=6a3Pwb_c6fI" target="_blank">
+    <img src="https://i.ytimg.com/vi/6a3Pwb_c6fI/maxresdefault.jpg" alt="夜空中最亮的星 EDM Cover ( 蔡恩雨 Priscilla Abby )" width="1280" height="720" loading="lazy" decoding="async" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
+  </a>
+  <br><br><b style="font-size: 1.1em;">夜空中最亮的星 EDM Cover ( 蔡恩雨 Priscilla Abby )</b>
+</p>
+<br>
+
+<hr>
+
+## <a name="gem"></a> 🇭🇰 鄧紫棋 G.E.M. (@gem)
+
+化作夜空中最亮的星。這裡是為華語樂壇巨星鄧紫棋 (G.E.M.) 準備的專屬舞台，期待那穿透靈魂的嗓音，在浩瀚無垠的宇宙中震撼迴盪。
+
+<br>
+
+<p style="margin-top: 0; line-height: 2.5;">
+  <span style="white-space: nowrap;"><img src="images/youtube.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://www.youtube.com/@gem" target="_blank"><b>YouTube (@gem)</b></a></span>&nbsp;&nbsp;&nbsp;&nbsp; <span style="white-space: nowrap;"><img src="images/instagram.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://instagram.com/gem0816" target="_blank"><b>Instagram (@gem0816)</b></a></span>&nbsp;&nbsp;&nbsp;&nbsp; <span style="white-space: nowrap;"><img src="images/facebook.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://facebook.com/G.E.M.OfficialPage" target="_blank"><b>Facebook (@G.E.M.OfficialPage)</b></a></span>
+</p>
+
+<br><br><br>
+<h2 align="center">🪑 專屬保留席</h2>
+<p align="center" style="color: gray;"><i>📡 衛星碟形天線正對準星海，期待宇宙漂流瓶能將這份邀請傳達到 鄧紫棋 (G.E.M.) 的手中...</i></p>
+<br><br><br>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=j22AIr5KlTc" target="_blank">
+    <img src="https://i.ytimg.com/vi/j22AIr5KlTc/maxresdefault.jpg" alt="G.E.M.【夜空中最亮的星】Official Audio [HD] 鄧紫棋" width="1280" height="720" loading="lazy" decoding="async" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
+  </a>
+  <br><br><b style="font-size: 1.1em;">G.E.M.【夜空中最亮的星】Official Audio [HD] 鄧紫棋</b>
+</p>
+<br>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=078LdWAaTco" target="_blank">
+    <img src="https://i.ytimg.com/vi/078LdWAaTco/maxresdefault.jpg" alt="GEM邓紫棋 神级现场！《夜空中最亮的星》唱出自我" width="1280" height="720" loading="lazy" decoding="async" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
+  </a>
+  <br><br><b style="font-size: 1.1em;">GEM邓紫棋 神级现场！《夜空中最亮的星》唱出自我</b>
+</p>
+<br>
+
+## <a name="jjlin"></a> 🇸🇬 林俊傑 JJ Lin (@jjlin)
+
+寫下不為誰而作的歌，卻溫暖了無數渺小的靈魂。這裡是為亞洲天王林俊傑 (JJ Lin) 準備的專屬舞台，期待他的音樂如小瓶子般，在星空中傳遞著愛與希望。
+
+<br>
+
+<p style="margin-top: 0; line-height: 2.5;">
+  <span style="white-space: nowrap;"><img src="images/youtube.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://www.youtube.com/@jjlin" target="_blank"><b>YouTube (@jjlin)</b></a></span>&nbsp;&nbsp;&nbsp;&nbsp; <span style="white-space: nowrap;"><img src="images/instagram.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://instagram.com/jjlin" target="_blank"><b>Instagram (@jjlin)</b></a></span>&nbsp;&nbsp;&nbsp;&nbsp; <span style="white-space: nowrap;"><img src="images/facebook.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://facebook.com/JJLin" target="_blank"><b>Facebook (@JJLin)</b></a></span>
+</p>
+
+<br><br><br>
+<h2 align="center">🪑 專屬保留席</h2>
+<p align="center" style="color: gray;"><i>📡 衛星碟形天線正對準星海，期待宇宙漂流瓶能將這份邀請傳達到 林俊傑 (JJ Lin) 的手中...</i></p>
+<br><br><br>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=gd38-X3HpbM" target="_blank">
+    <img src="https://i.ytimg.com/vi/gd38-X3HpbM/sddefault.jpg" alt="林俊傑 JJ Lin – 不為誰而作的歌 Twilight" width="640" height="480" loading="lazy" decoding="async" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
+  </a>
+  <br><br><b style="font-size: 1.1em;">林俊傑 JJ Lin – 不為誰而作的歌 Twilight</b>
+</p>
+<br>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dAJrw5x3b4w" target="_blank">
+    <img src="https://i.ytimg.com/vi/dAJrw5x3b4w/sddefault.jpg" alt="林俊傑 JJ Lin - 小瓶子 Message in a bottle" width="640" height="480" loading="lazy" decoding="async" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
+  </a>
+  <br><br><b style="font-size: 1.1em;">林俊傑 JJ Lin - 小瓶子 Message in a bottle</b>
+</p>
+<br>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=JwjBbWQs71k" target="_blank">
+    <img src="https://i.ytimg.com/vi/JwjBbWQs71k/maxresdefault.jpg" alt="林俊傑 JJ Lin - 偉大的渺小 Little Big Us" width="1280" height="720" loading="lazy" decoding="async" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
+  </a>
+  <br><br><b style="font-size: 1.1em;">林俊傑 JJ Lin - 偉大的渺小 Little Big Us</b>
+</p>
+<br>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=2D0OdJ56Dw4" target="_blank">
+    <img src="https://i.ytimg.com/vi/2D0OdJ56Dw4/maxresdefault.jpg" alt="林俊傑 JJ Lin 《偉大的渺小 Little Big Us》 (Jazz Version)" width="1280" height="720" loading="lazy" decoding="async" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
+  </a>
+  <br><br><b style="font-size: 1.1em;">林俊傑 JJ Lin 《偉大的渺小 Little Big Us》 (Jazz Version)</b>
 </p>
 <br>
 
