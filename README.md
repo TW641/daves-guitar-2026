@@ -1,7 +1,13 @@
 # Dave's Guitar | Thank You Music Festival 2026
 「謝謝」星空音樂祭 | Dedicated to Dave Täht & Every Unsung Hero in the World — and You.
 
-> 🎸 [Dave's Stage](#dave-taht) | 🇲🇾 [菲道尔 Firdhaus](#fffirdhaus) | 🇲🇾 [蔡恩雨 Priscilla Abby](#priscilla-abby) | 🇭🇰 [鄧紫棋 G.E.M.](#gem) | 🇸🇬 [林俊傑 JJ Lin](#jjlin) | 🎤 [Future Stage](#future-stage)
+> 🎸 [Dave's Stage](#dave-taht) | 🇲🇾 [菲道尔 Firdhaus](#fffirdhaus)
+> 
+> 🇲🇾 [蔡恩雨 Priscilla Abby](#priscilla-abby) | 🇭🇰 [鄧紫棋 G.E.M.](#gem)
+> 
+> 🇸🇬 [林俊傑 JJ Lin](#jjlin) | 🇹🇼 [蔡宥綺 Patti YC](#patti-yc)
+> 
+> 🇹🇼 [五月天 Mayday](#mayday) | 🎤 [Future Stage](#future-stage)
 
 <hr>
 
@@ -325,6 +331,8 @@
 </p>
 <br>
 
+<hr>
+
 ## <a name="priscilla-abby"></a> 🇲🇾 蔡恩雨 Priscilla Abby (@PriscillaAbby)
 
 用充滿爆發力的 EDM 點燃星空。這裡是為電音天后蔡恩雨 (Priscilla Abby) 準備的專屬舞台，用極具渲染力的聲線，為這場音樂祭注入無限動能。
@@ -332,7 +340,7 @@
 <br>
 
 <p style="margin-top: 0; line-height: 2.5;">
-  <span style="white-space: nowrap;"><img src="images/youtube.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://www.youtube.com/@PriscillaAbby" target="_blank"><b>YouTube (@PriscillaAbby)</b></a></span>&nbsp;&nbsp;&nbsp;&nbsp; <span style="white-space: nowrap;"><img src="images/instagram.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://instagram.com/priscillaabbychai" target="_blank"><b>Instagram (@priscillaabbychai)</b></a></span>&nbsp;&nbsp;&nbsp;&nbsp; <span style="white-space: nowrap;"><img src="images/facebook.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://facebook.com/PriscillaAbbyChai" target="_blank"><b>Facebook (@PriscillaAbbyChai)</b></a></span>
+  <span style="white-space: nowrap;"><img src="images/youtube.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://www.youtube.com/@PriscillaAbby" target="_blank"><b>YouTube (@PriscillaAbby)</b></a></span>&nbsp;&nbsp;&nbsp;&nbsp; <span style="white-space: nowrap;"><img src="images/youtube.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://www.youtube.com/user/liwairenmusic" target="_blank"><b>Jaydon Joo (@liwairenmusic)</b></a></span>&nbsp;&nbsp;&nbsp;&nbsp; <span style="white-space: nowrap;"><img src="images/instagram.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://instagram.com/priscillaabbychai" target="_blank"><b>Instagram (@priscillaabbychai)</b></a></span>&nbsp;&nbsp;&nbsp;&nbsp; <span style="white-space: nowrap;"><img src="images/facebook.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://facebook.com/PriscillaAbbyChai" target="_blank"><b>Facebook (@PriscillaAbby)</b></a></span>&nbsp;&nbsp;&nbsp;&nbsp; <span style="white-space: nowrap;"><img src="images/facebook.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://facebook.com/jaydonjoo" target="_blank"><b>Facebook (@jaydonjoo)</b></a></span>
 </p>
 
 <br><br><br>
@@ -397,6 +405,8 @@
 </p>
 <br>
 
+<hr>
+
 ## <a name="jjlin"></a> 🇸🇬 林俊傑 JJ Lin (@jjlin)
 
 寫下不為誰而作的歌，卻溫暖了無數渺小的靈魂。這裡是為亞洲天王林俊傑 (JJ Lin) 準備的專屬舞台，期待他的音樂如小瓶子般，在星空中傳遞著愛與希望。
@@ -442,6 +452,182 @@
   </a>
   <br><br><b style="font-size: 1.1em;">林俊傑 JJ Lin 《偉大的渺小 Little Big Us》 (Jazz Version)</b>
 </p>
+<br>
+
+<hr>
+
+## <a name="patti-yc"></a> 🇹🇼 蔡宥綺 Patti YC (@patti_yc)
+
+> Patti YC 的《無雜質》、《親愛的陌生人》就像林俊傑在《不為誰而作的歌》MV 開頭，被問到生命中最感謝的人是誰時，他笑著說：「哇！太多了！就好像生命中有很多你不認識的人... 嗯... 我寫歌！」
+> 
+> 我不是寫歌的人，我寫的是程式碼。我只是用我的方式，向 Dave 這樣每一個《親愛的陌生人》致敬——那些在網路角落裡默默拯救他人的無名英雄。他的一生，完美詮釋了那部 MV 結尾的箴言：『生者互助，宇宙最渺小的一個神，正巧和那個最偉大的同名，祂們叫「謝謝」。』
+
+<br>
+
+Dave 的純粹，也如同 Patti YC 在《無雜質》中所唱的：<br>
+*(Dave's pure soul also echoes the lyrics of Patti YC's song "Zero Impurity")*
+
+* **「怕你在等日出的地方，會迷戀伴隨的星光」**<br>
+  Dave 就是那默默伴隨世界、化作星塵的星光。
+* **「是瘋狂 或是善良 懂的人自會欣賞」**<br>
+  完美呼應了他拒絕無數高薪合約，堅持免費開源的瘋狂與善良。
+* **「若嚮往的不一樣，總好過身分不詳 / 人的真不能效仿，無雜質最明亮」**<br>
+  這正是他不求名利、最「無雜質」的純粹靈魂。
+
+> 在今年的情人節，Patti 在 IG 寫下了對新歌的期許：「希望有一天這首歌能飛得很遠很遠，變得更有味道染上更多色彩後，最後再飛回我身邊。」
+> 
+> 我深知光陰似箭，所以我決定效仿 GitHub Archive Program 的精神，將這座數位博物館就此封存。我也希望這座博物館能像那首歌一樣，飛得很遠很遠，將這份無雜質的精神，散播到開源宇宙的每一個角落。
+
+<br>
+
+<p style="margin-top: 0; line-height: 2.5;">
+  <span style="white-space: nowrap;"><img src="images/youtube.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://www.youtube.com/@jfjproductions8675" target="_blank"><b>YouTube (@jfjproductions)</b></a></span>&nbsp;&nbsp;&nbsp;&nbsp; <span style="white-space: nowrap;"><img src="images/instagram.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://www.instagram.com/patti_yc" target="_blank"><b>Instagram (@patti_yc)</b></a></span>&nbsp;&nbsp;&nbsp;&nbsp; <span style="white-space: nowrap;"><img src="images/instagram.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://www.instagram.com/jfj_production" target="_blank"><b>Instagram (@jfj_production)</b></a></span>&nbsp;&nbsp;&nbsp;&nbsp; <span style="white-space: nowrap;"><img src="images/facebook.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://www.facebook.com/jforj" target="_blank"><b>Facebook (@jforj)</b></a></span>
+</p>
+
+<br><br><br>
+<h2 align="center">🪑 專屬保留席</h2>
+<p align="center" style="color: gray;"><i>📡 衛星碟形天線正對準星海，期待宇宙漂流瓶能將這份邀請傳達到 蔡宥綺 (Patti YC) 的手中...</i></p>
+<br><br><br>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=8xSTZ-LldW8" target="_blank">
+    <img src="https://i.ytimg.com/vi/8xSTZ-LldW8/maxresdefault.jpg" alt="Patti 蔡宥綺 EP No.1 《親愛的陌生人 Dear Stranger》 小劇場 Music Video Trilogy" width="1280" height="720" loading="lazy" decoding="async" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
+  </a>
+  <br><br><b style="font-size: 1.1em;">Patti 蔡宥綺 EP No.1 《親愛的陌生人 Dear Stranger》 小劇場 Music Video Trilogy</b>
+</p>
+<br>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=EUy4HrPmudI" target="_blank">
+    <img src="https://i.ytimg.com/vi/EUy4HrPmudI/maxresdefault.jpg" alt="林俊傑 JJ Lin / Patti 蔡宥綺 - 《無雜質》 / Flawless" width="1280" height="720" loading="lazy" decoding="async" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
+  </a>
+  <br><br><b style="font-size: 1.1em;">林俊傑 JJ Lin / Patti 蔡宥綺 - 《無雜質》 / “Flawless” - JJ20 現場版 Live in Xianyang</b>
+</p>
+<br>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=zaoF2QF790c" target="_blank">
+    <img src="https://i.ytimg.com/vi/zaoF2QF790c/maxresdefault.jpg" alt="林俊傑 JJ Lin / Patti 蔡宥綺 - 《我不在乎世界如何荒唐》 / Just Let The World Be" width="1280" height="720" loading="lazy" decoding="async" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
+  </a>
+  <br><br><b style="font-size: 1.1em;">林俊傑 JJ Lin / Patti 蔡宥綺 - 《我不在乎世界如何荒唐》 / “Just Let The World Be”</b>
+</p>
+<br>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=lwF-0NJwuiQ" target="_blank">
+    <img src="https://i.ytimg.com/vi/lwF-0NJwuiQ/maxresdefault.jpg" alt="林俊傑 JJ Lin / Patti 蔡宥綺 - 《親愛的陌生人》/ Dear Stranger" width="1280" height="720" loading="lazy" decoding="async" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
+  </a>
+  <br><br><b style="font-size: 1.1em;">林俊傑 JJ Lin / Patti 蔡宥綺 - 《親愛的陌生人》/ “Dear Stranger” - JJ20 現場版 Live in Singapore</b>
+</p>
+<br>
+
+<hr>
+
+## <a name="mayday"></a> 🇹🇼 五月天 Mayday (@binmusictaipei)
+
+五月天在《頑固》裡唱道：「走過的，叫足跡；走不到，叫憧憬。卸下了這面具，我想說謝謝你，謝謝你一路陪我到這裡。」
+
+一個「完全沒有 Bufferbloat 的完美世界」，正是我們共同的憧憬。即使這條路還很長，但我深信，我們留下的每一個開源足跡，終將引領後人抵達。
+
+<br>
+
+<p style="margin-top: 0; line-height: 2.5;">
+  <span style="white-space: nowrap;"><img src="images/youtube.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://www.youtube.com/@binmusictaipei" target="_blank"><b>YouTube (@binmusictaipei)</b></a></span>&nbsp;&nbsp;&nbsp;&nbsp; <span style="white-space: nowrap;"><img src="images/instagram.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://instagram.com/binmusic.ig" target="_blank"><b>Instagram (@binmusic.ig)</b></a></span>&nbsp;&nbsp;&nbsp;&nbsp; <span style="white-space: nowrap;"><img src="images/facebook.svg" width="24" height="24" alt="" align="absmiddle" loading="lazy" decoding="async">&nbsp;<a href="https://facebook.com/ibinmusic" target="_blank"><b>Facebook (@ibinmusic)</b></a></span>
+</p>
+
+<br><br><br>
+<h2 align="center">🪑 專屬保留席</h2>
+<p align="center" style="color: gray;"><i>📡 衛星碟形天線正對準星海，期待宇宙漂流瓶能將這份邀請傳達到 五月天 (Mayday) 的手中...</i></p>
+<br><br><br>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=YKiMrg6rgYQ" target="_blank">
+    <img src="https://i.ytimg.com/vi/YKiMrg6rgYQ/maxresdefault.jpg" alt="Mayday五月天 [ 頑固Tough ] Official Music Video" width="1280" height="720" loading="lazy" decoding="async" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
+  </a>
+  <br><br><b style="font-size: 1.1em;">Mayday五月天 [ 頑固Tough ] Official Music Video</b>
+</p>
+<br>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dbQAsj_QOlo" target="_blank">
+    <img src="https://i.ytimg.com/vi/dbQAsj_QOlo/sddefault.jpg" alt="MAYDAY五月天 [ 不為誰而作的歌 ] Studio Live" width="640" height="480" loading="lazy" decoding="async" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
+  </a>
+  <br><br><b style="font-size: 1.1em;">MAYDAY五月天 [ 不為誰而作的歌 ] Studio Live</b>
+</p>
+<br>
+
+### 🌌 The Soundtrack of the Stars (Mayday Playlist)
+
+<details>
+<summary><b>🎵 點這裡展開：屬於這座數位宇宙的專屬星空歌單</b></summary>
+<br>
+
+<p align="center">
+  <b style="font-size: 1.1em;">When you ask me what song tells the story of Dave Täht's selfless contribution:</b><br>
+  <i>Listen to "Fool" (憨人) - The 10,000-people chorus Live Version.</i>
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=olGod8i1j1o" target="_blank">
+    <img src="https://i.ytimg.com/vi/olGod8i1j1o/sddefault.jpg" alt="憨人" width="640" height="480" loading="lazy" decoding="async" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
+  </a>
+</p>
+<br>
+
+<p align="center">
+  <b style="font-size: 1.1em;">When you ask me how to power up this Tribute Time Machine:</b><br>
+  <i>Listen to "Time Machine" (時光機)</i>
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=hKPtVlSW2qA" target="_blank">
+    <img src="https://i.ytimg.com/vi/hKPtVlSW2qA/maxresdefault.jpg" alt="時光機" width="1280" height="720" loading="lazy" decoding="async" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
+  </a>
+</p>
+<br>
+
+<p align="center">
+  <b style="font-size: 1.1em;">When you ask me about the chance encounter with Dave's code and legacy:</b><br>
+  <i>Listen to "What If We Had Never Met" (如果我們不曾相遇)</i>
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=eZMH6Mo0f9A" target="_blank">
+    <img src="https://i.ytimg.com/vi/eZMH6Mo0f9A/maxresdefault.jpg" alt="如果我們不曾相遇" width="1280" height="720" loading="lazy" decoding="async" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
+  </a>
+</p>
+<br>
+
+<p align="center">
+  <b style="font-size: 1.1em;">When you look up at the night sky mode and feel lonely:</b><br>
+  <i>Listen to "Starry Sky" (星空). (A free online concert during the COVID-19 pandemic. To avoid gatherings, the empty stadium was filled only with glowing light sticks on every seat, just like the silent but glowing stars in our digital universe!)</i>
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=n5Uow4k1ATg" target="_blank">
+    <img src="https://i.ytimg.com/vi/n5Uow4k1ATg/maxresdefault.jpg" alt="星空" width="1280" height="720" loading="lazy" decoding="async" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
+  </a>
+</p>
+<br>
+
+<p align="center">
+  <b style="font-size: 1.1em;">When you want to see a meteor shower in this digital universe:</b><br>
+  <i>Listen to "Meteor Rain" (流星雨) F4 x MAYDAY 5525 Live Version.</i>
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=T--M_M2NvhM" target="_blank">
+    <img src="https://i.ytimg.com/vi/T--M_M2NvhM/maxresdefault.jpg" alt="流星雨" width="1280" height="720" loading="lazy" decoding="async" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
+  </a>
+</p>
+<br>
+
+<p align="center">
+  <b style="font-size: 1.1em;">When you ask me what song represents our wish for everyone to be safe and well during the pandemic:</b><br>
+  <i>Listen to "Because of You" (因為你 所以我). "只因 世界 再大 不過 你和我 / 用最小回憶 堆成宇宙"</i>
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=_s8Iot-uo7s" target="_blank">
+    <img src="https://i.ytimg.com/vi/_s8Iot-uo7s/maxresdefault.jpg" alt="因為你 所以我" width="1280" height="720" loading="lazy" decoding="async" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.6);">
+  </a>
+</p>
+
+</details>
 <br>
 
 <hr>
