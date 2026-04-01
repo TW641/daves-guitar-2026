@@ -285,7 +285,7 @@
 
 <br><br><br>
 <h2 align="center">🪑 專屬保留席</h2>
-<p align="center" style="color: gray;"><i>📡 衛星碟形天線正對準星海，期待宇宙漂流瓶能將這份邀請傳達到 菲道尔 (Firdhaus) 的手中...</i></p>
+<p align="center" style="opacity: 0.85;"><i>📡 衛星碟形天線正對準星海，期待宇宙漂流瓶能將這份邀請傳達到 菲道尔 (Firdhaus) 的手中...</i></p>
 <br><br><br>
 
 <p align="center">
@@ -350,7 +350,7 @@
 
 <br><br><br>
 <h2 align="center">🪑 專屬保留席</h2>
-<p align="center" style="color: gray;"><i>📡 衛星碟形天線正對準星海，期待宇宙漂流瓶能將這份邀請傳達到 蔡恩雨 (Priscilla Abby) 的手中...</i></p>
+<p align="center" style="opacity: 0.85;"><i>📡 衛星碟形天線正對準星海，期待宇宙漂流瓶能將這份邀請傳達到 蔡恩雨 (Priscilla Abby) 的手中...</i></p>
 <br><br><br>
 
 <p align="center">
@@ -391,7 +391,7 @@
 
 <br><br><br>
 <h2 align="center">🪑 專屬保留席</h2>
-<p align="center" style="color: gray;"><i>📡 衛星碟形天線正對準星海，期待宇宙漂流瓶能將這份邀請傳達到 鄧紫棋 (G.E.M.) 的手中...</i></p>
+<p align="center" style="opacity: 0.85;"><i>📡 衛星碟形天線正對準星海，期待宇宙漂流瓶能將這份邀請傳達到 鄧紫棋 (G.E.M.) 的手中...</i></p>
 <br><br><br>
 
 <p align="center">
@@ -424,7 +424,7 @@
 
 <br><br><br>
 <h2 align="center">🪑 專屬保留席</h2>
-<p align="center" style="color: gray;"><i>📡 衛星碟形天線正對準星海，期待宇宙漂流瓶能將這份邀請傳達到 林俊傑 (JJ Lin) 的手中...</i></p>
+<p align="center" style="opacity: 0.85;"><i>📡 衛星碟形天線正對準星海，期待宇宙漂流瓶能將這份邀請傳達到 林俊傑 (JJ Lin) 的手中...</i></p>
 <br><br><br>
 
 <p align="center">
@@ -491,7 +491,7 @@ Dave 的純粹，也如同 Patti YC 在《無雜質》中所唱的：<br>
 
 <br><br><br>
 <h2 align="center">🪑 專屬保留席</h2>
-<p align="center" style="color: gray;"><i>📡 衛星碟形天線正對準星海，期待宇宙漂流瓶能將這份邀請傳達到 蔡宥綺 (Patti YC) 的手中...</i></p>
+<p align="center" style="opacity: 0.85;"><i>📡 衛星碟形天線正對準星海，期待宇宙漂流瓶能將這份邀請傳達到 蔡宥綺 (Patti YC) 的手中...</i></p>
 <br><br><br>
 
 <p align="center">
@@ -542,7 +542,7 @@ Dave 的純粹，也如同 Patti YC 在《無雜質》中所唱的：<br>
 
 <br><br><br>
 <h2 align="center">🪑 專屬保留席</h2>
-<p align="center" style="color: gray;"><i>📡 衛星碟形天線正對準星海，期待宇宙漂流瓶能將這份邀請傳達到 五月天 (Mayday) 的手中...</i></p>
+<p align="center" style="opacity: 0.85;"><i>📡 衛星碟形天線正對準星海，期待宇宙漂流瓶能將這份邀請傳達到 五月天 (Mayday) 的手中...</i></p>
 <br><br><br>
 
 <p align="center">
